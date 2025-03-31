@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Bon! A 1st year IT Student from Central Mindanao University. I'm currently 18 years old.
 <!--
 **Kie-10/Kie-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
